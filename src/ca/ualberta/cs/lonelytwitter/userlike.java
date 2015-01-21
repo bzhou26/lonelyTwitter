@@ -1,6 +1,7 @@
 package ca.ualberta.cs.lonelytwitter;
 
-public interface UserLike {
+
+public interface userlike{
 	public String getName();
-	
+
 }
